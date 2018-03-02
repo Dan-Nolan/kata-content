@@ -1,0 +1,30 @@
+{
+  "name": "kata-content",
+  "version": "1.0.0",
+  "description": "Just a place to store potential Katas for now.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan-Nolan/kata-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dan-Nolan/kata-content/issues"
+  },
+  "homepage": "https://github.com/Dan-Nolan/kata-content#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel-minify": "^0.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp-babel": "^7.0.1"
+  }
+}
